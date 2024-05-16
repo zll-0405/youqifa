@@ -8,15 +8,16 @@ export default sidebar({
 
   "/books/": [
     {
-      text: "人生",
+      text: "个人成长",
       prefix: "life/",
       collapsible: true,
       children: [
+        "growth-algorithm",
         "live-advice",
       ],
     },
     {
-      text: "财务",
+      text: "经济理财",
       prefix: "finance/",
       collapsible: true,
       children: [

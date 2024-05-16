@@ -2,7 +2,7 @@
 category:
   - 读书记录
 tag:
-  - 财务
+  - 经济理财
 title: 财富觉醒
 description: 投资的极简原则就三个字：谁接盘
 ---
