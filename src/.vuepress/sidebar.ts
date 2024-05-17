@@ -21,6 +21,7 @@ export default sidebar({
       prefix: "finance/",
       collapsible: true,
       children: [
+        "money-psychology",
         "finance-freedom-lesson-one",
         "wealth-awakening",
       ],
