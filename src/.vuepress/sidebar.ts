@@ -12,6 +12,7 @@ export default sidebar({
       prefix: "life/",
       collapsible: true,
       children: [
+        "successful-mentality",
         "growth-algorithm",
         "live-advice",
       ],
