@@ -22,6 +22,7 @@ export default sidebar({
       prefix: "finance/",
       collapsible: true,
       children: [
+        "started-with-stock",
         "money-psychology",
         "finance-freedom-lesson-one",
         "wealth-awakening",
