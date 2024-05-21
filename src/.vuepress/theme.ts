@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://vip.helloimg.com/i/2024/05/15/66449c7354629.png",
+  logo: "./logo.png",
 
   docsDir: "src",
 

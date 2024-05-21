@@ -10,5 +10,10 @@ export default navbar([
     text: "读书记录",
     icon: "rocket",
     link: "/books/",
+  },
+  {
+    text: "一些想法",
+    icon: "droplet",
+    link: "/thoughts/",
   }
 ]);

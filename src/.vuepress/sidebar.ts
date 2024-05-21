@@ -30,5 +30,8 @@ export default sidebar({
       ],
     },
   ],
+  "/thoughts/":  [
+    "what-am-i-interested-in"
+  ],
 
 });
