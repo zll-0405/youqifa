@@ -27,7 +27,6 @@ export default sidebar({
         "started-with-stock",
         "money-psychology",
         "finance-freedom-lesson-one",
-        "wealth-awakening",
       ],
     },
   ],
