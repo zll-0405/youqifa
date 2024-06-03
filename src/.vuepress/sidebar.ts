@@ -31,8 +31,8 @@ export default sidebar({
     },
   ],
   "/thoughts/":  [
+    "what-is-relaxation",
     "what-am-i-interested-in",
-    "what-is-relaxation"
   ],
 
 });
