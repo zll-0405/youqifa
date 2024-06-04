@@ -31,6 +31,7 @@ export default sidebar({
     },
   ],
   "/thoughts/":  [
+    "save-money-is-a-habit",
     "what-is-relaxation",
     "what-am-i-interested-in",
   ],
