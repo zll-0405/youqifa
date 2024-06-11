@@ -12,6 +12,11 @@ export default navbar([
     link: "/books/",
   },
   {
+    text: "优质博文",
+    icon: "rocket",
+    link: "/blog/",
+  },
+  {
     text: "一些想法",
     icon: "droplet",
     link: "/thoughts/",

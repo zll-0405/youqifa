@@ -31,6 +31,18 @@ export default sidebar({
       ],
     },
   ],
+
+  "/blog/": [
+    {
+      text: "纳瓦尔",
+      prefix: "naval/",
+      collapsible: true,
+      children: [
+        "rich"
+      ],
+    },
+  ],
+
   "/thoughts/":  [
     "to-the-new-hustle-and-bustle",
     "save-money-is-a-habit",
