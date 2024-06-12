@@ -33,14 +33,7 @@ export default sidebar({
   ],
 
   "/blog/": [
-    {
-      text: "纳瓦尔",
-      prefix: "naval/",
-      collapsible: true,
-      children: [
-        "rich"
-      ],
-    },
+    "naval"
   ],
 
   "/thoughts/":  [

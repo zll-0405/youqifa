@@ -13,7 +13,7 @@ export default navbar([
   },
   {
     text: "优质博文",
-    icon: "rocket",
+    icon: "bolt",
     link: "/blog/",
   },
   {
