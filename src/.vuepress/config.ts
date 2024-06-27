@@ -17,7 +17,7 @@ export default defineUserConfig({
                 gtag('js', new Date());\
                 gtag('config', 'G-CSN77S03H5');"],
 
-    ['script', { src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2430447163838764",async: true}],
+    // ['script', { src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2430447163838764",async: true}],
   ],
 
   theme,
