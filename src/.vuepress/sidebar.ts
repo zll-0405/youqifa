@@ -7,27 +7,21 @@ export default sidebar({
     "like-yourself",
   ],
 
-  "/books/": [
+  "/ai/": [
     {
-      text: "个人成长",
-      prefix: "life/",
+      text: "信息",
+      prefix: "info/",
       collapsible: true,
       children: [
-        "good-luck",
-        "live-this-life-well",
-        "successful-mentality",
-        "growth-algorithm",
-        "live-advice",
+        "wetype-ai",
       ],
     },
     {
-      text: "经济理财",
-      prefix: "finance/",
+      text: "产品",
+      prefix: "product/",
       collapsible: true,
       children: [
-        "started-with-stock",
-        "money-psychology",
-        "finance-freedom-lesson-one",
+        "glif-app",
       ],
     },
   ],
@@ -36,7 +30,7 @@ export default sidebar({
     "naval"
   ],
 
-  "/thoughts/":  [
+  "/tools/":  [
     "to-the-new-hustle-and-bustle",
     "save-money-is-a-habit",
     "what-is-relaxation",

@@ -7,9 +7,9 @@ export default navbar([
     link: "/sentence/",
   },
   {
-    text: "读书记录",
+    text: "AI相关",
     icon: "rocket",
-    link: "/books/",
+    link: "/ai/",
   },
   {
     text: "优质博文",
@@ -17,8 +17,8 @@ export default navbar([
     link: "/blog/",
   },
   {
-    text: "一些想法",
+    text: "工具推荐",
     icon: "droplet",
-    link: "/thoughts/",
+    link: "/tools/",
   }
 ]);
