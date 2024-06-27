@@ -21,7 +21,7 @@ export default sidebar({
       prefix: "product/",
       collapsible: true,
       children: [
-        "glif-app",
+        "perplexity",
       ],
     },
   ],
