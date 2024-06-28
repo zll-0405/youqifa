@@ -31,10 +31,7 @@ export default sidebar({
   ],
 
   "/tools/":  [
-    "to-the-new-hustle-and-bustle",
-    "save-money-is-a-habit",
-    "what-is-relaxation",
-    "what-am-i-interested-in",
+    "listary",
   ],
 
 });
