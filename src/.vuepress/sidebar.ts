@@ -31,6 +31,7 @@ export default sidebar({
   ],
 
   "/tools/":  [
+    "removebg",
     "listary",
   ],
 
