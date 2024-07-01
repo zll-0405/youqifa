@@ -31,6 +31,7 @@ export default sidebar({
   ],
 
   "/tools/":  [
+    "vectorcraftr",
     "programmer-tools",
     "removebg",
     "listary",
