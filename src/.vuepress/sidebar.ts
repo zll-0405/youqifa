@@ -13,6 +13,7 @@ export default sidebar({
       prefix: "info/",
       collapsible: true,
       children: [
+        "heygen",
         "wetype-ai",
       ],
     },

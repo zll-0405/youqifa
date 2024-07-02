@@ -4,7 +4,7 @@ category:
 tag:
   - 信息
 title: 微信输入法新增 AI 问答功能
-description: 
+description: 我的一些使用经验
 ---
 
 打开电脑，发现了一条推送，是微信输入法更新了，这次更新之后，支持 AI 问答功能了
