@@ -38,4 +38,8 @@ export default sidebar({
     "listary",
   ],
 
+  "/others/":  [
+    "cve-2024-6387",
+  ],
+
 });

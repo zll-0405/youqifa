@@ -20,5 +20,10 @@ export default navbar([
     text: "工具推荐",
     icon: "droplet",
     link: "/tools/",
+  },
+  {
+    text: "其他",
+    icon: "comment",
+    link: "/others/",
   }
 ]);
