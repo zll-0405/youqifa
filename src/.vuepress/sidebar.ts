@@ -32,6 +32,7 @@ export default sidebar({
   ],
 
   "/tools/":  [
+    "icon-recommend",
     "vectorcraftr",
     "programmer-tools",
     "removebg",
