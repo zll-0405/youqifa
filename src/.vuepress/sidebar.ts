@@ -28,7 +28,8 @@ export default sidebar({
   ],
 
   "/blog/": [
-    "naval"
+    "elon-musk-daily-schedule",
+    "naval",
   ],
 
   "/tools/":  [
