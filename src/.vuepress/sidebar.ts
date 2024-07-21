@@ -28,6 +28,7 @@ export default sidebar({
   ],
 
   "/blog/": [
+    "andrew-huberman-daily-schedule",
     "elon-musk-daily-schedule",
     "naval",
   ],
